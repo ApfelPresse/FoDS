@@ -1,4 +1,4 @@
-# FoDS
+# FoDS - Foundations of Data Science
 
 1. [Ex1](https://github.com/ApfelPresse/FoDS/blob/master/Ex1/Ex1.ipynb)
 2. [Ex2](https://github.com/ApfelPresse/FoDS/blob/master/Ex2/Ex2.ipynb)
